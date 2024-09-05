@@ -1,0 +1,12 @@
+{
+    "initial_balance": 10000,
+    "stop_loss": 0.05,
+    "take_profit": 0.1,
+    "currency_pair": "BTC/USDT",
+    "timeframe": "1h",
+    "start_date": "2023-08-01",
+    "end_date": "2023-08-31",
+    "epochs": 50,
+    "batch_size": 32,
+    "learning_rate": 0.001
+}
